@@ -141,19 +141,19 @@ const experiences = [
   //     "Participating in code reviews and providing constructive feedback to other developers.",
   //   ],
   // },
-  {
-    title: "Founder",
-    company_name: "Ryd",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Mar 2024 - Present",
-    points: [
-      "A C-to-C rental service platform that connects individuals to rent or lend items directly, providing a convenient and cost-effective way to access products",
-      "It empowers users to monetize their unused assets while offering others affordable rental options.",
-      "The platform fosters a community-driven economy, allowing users to list, discover, and rent items ranging from everyday essentials to unique products.",
-      "It ensures a seamless and secure transaction process, building trust among users.",
-    ],
-  },
+  // {
+  //   title: "Founder",
+  //   company_name: "Ryd",
+  //   icon: shopify,
+  //   iconBg: "#383E56",
+  //   date: "Mar 2024 - Present",
+  //   points: [
+  //     "A C-to-C rental service platform that connects individuals to rent or lend items directly, providing a convenient and cost-effective way to access products",
+  //     "It empowers users to monetize their unused assets while offering others affordable rental options.",
+  //     "The platform fosters a community-driven economy, allowing users to list, discover, and rent items ranging from everyday essentials to unique products.",
+  //     "It ensures a seamless and secure transaction process, building trust among users.",
+  //   ],
+  // },
   {
     title: "Full stack Developer",
     company_name: "Meta",
