@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React.js Developer",
     icon: mobile,
   },
   {
@@ -116,7 +116,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Next.js Developer",
+    title: "React.js Developer",
     company_name: "GIBNU DIGITAL SOLUTION PVT.LTD",
     icon: starbucks,
     iconBg: "#383E56",
